@@ -1,0 +1,12 @@
+{
+  "id": "magyarNevnapok",
+  "name": "Magyar Névnapok",
+  "description": "Display the current Hungarian nameday on the bar. Hover for yesterday/today/tomorrow, click for a detailed popout panel.",
+  "version": "1.0.0",
+  "author": "Szabolcs Fazekas",
+  "icon": "cake",
+  "type": "widget",
+  "capabilities": ["dankbar-widget"],
+  "component": "./NamedayWidget.qml",
+  "permissions": ["settings_read"]
+}
