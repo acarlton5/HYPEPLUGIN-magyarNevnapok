@@ -23,7 +23,7 @@ cp -r . ~/.config/DankMaterialShell/plugins/magyarNevnapok
 Then restart DMS:
 
 ```sh
-dms restart
+hype restart
 ```
 
 ## Data Source
